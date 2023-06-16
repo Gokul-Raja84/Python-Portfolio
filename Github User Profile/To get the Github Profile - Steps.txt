@@ -1,0 +1,9 @@
+# Import required Modules and Library
+
+# Ask for user input for a GitHub Profile link
+
+# Enter the Github Profile Link
+
+# Output the profile image link through web scraping
+
+# Use that link to get the Profile Pic of Github User
