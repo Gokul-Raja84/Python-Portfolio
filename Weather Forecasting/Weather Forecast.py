@@ -12,7 +12,7 @@ import requests
 
 city = input('input the city name')
 
-print('Displaying Weater report for: ' + city)
+print('Displaying Weather report for: ' + city)
 
 #To fetch the weather details
 
