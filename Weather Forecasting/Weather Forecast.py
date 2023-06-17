@@ -10,7 +10,7 @@ import requests
 
 #input the city name
 
-city = input('input the city name')
+city = input('input the city name : ')
 
 print('Displaying Weather report for: ' + city)
 
