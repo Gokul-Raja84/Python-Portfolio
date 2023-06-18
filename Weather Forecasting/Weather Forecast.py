@@ -1,3 +1,4 @@
+
 '''
 
 Weather forecast using Python
@@ -18,6 +19,7 @@ print('Displaying Weather report for: ' + city)
 
 url = 'https://wttr.in/{}'.format(city)
 res = requests.get(url)
+
 
 #resulting weather report
 
